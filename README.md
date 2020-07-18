@@ -2,7 +2,7 @@
 
 :eyes: **I am**
 - Junior Front-end Developer
-- Currently working at Big Picture
+- Currently working at BigPicture Interactive
 - Highly interesting at TDD
 
 :orange_book: **Languages**
