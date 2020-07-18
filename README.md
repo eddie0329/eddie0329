@@ -11,6 +11,6 @@
 - Python
 - C, C++
 
-:bulb: Contact
+:bulb: **Contact**
 - Tistory Blog: [Eddie Sunny's Blog](https://eddie-sunny.tistory.com/)
 - Email: [choi.jongsun0329@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=choi.jongsun0329@gmail.com)
