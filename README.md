@@ -1,4 +1,4 @@
-#### Eddie Sunny's Profile
+#### :rainbow: Eddie Sunny's Profile
 
 :eyes: **I am**
 - Front-end Developer
