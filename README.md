@@ -1,7 +1,7 @@
 #### Eddie Sunny's Profile
 
 :eyes: **I am**
-- Junior Front-end Developer
+- Front-end Developer
 - Currently working at BigPicture Interactive
 - Highly interesting at TDD
 
