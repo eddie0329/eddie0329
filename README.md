@@ -13,3 +13,4 @@
 
 :bulb: **Contact**
 - Email: [choi.jongsun0329@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=choi.jongsun0329@gmail.com)
+- Tistory: [Eddie Sunny's Blog](https://eddie-sunny.tistory.com/)
