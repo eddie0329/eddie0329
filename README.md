@@ -3,7 +3,7 @@
 :eyes: **I am**
 - Front-end Developer
 - Currently working at BigPicture Interactive
-- Highly interesting at TDD
+- Highly interest at TDD
 
 :orange_book: **Languages**
 - Javascript
