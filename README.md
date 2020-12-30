@@ -2,7 +2,7 @@
 
 :eyes: **I am**
 - Front-end Developer
-- Currently working at BigPicture Interactive
+- [svetlestrap](https://github.com/bestguy/sveltestrap) contributor
 - Highly interest at TDD
 
 :orange_book: **Languages**
