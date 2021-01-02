@@ -2,7 +2,7 @@
 
 :eyes: **I am**
 - Front-end Developer
-- [jest-to-be-typed](https://github.com/eddie0329/jest-to-be-typed), [storybook-darkmode-vue](https://github.com/eddie0329/storybook-darkmode-vuehttps://github.com/eddie0329/storybook-darkmode-vue) maintainer
+- [jest-to-be-typed](https://github.com/eddie0329/jest-to-be-typed), [storybook-darkmode-vue](https://github.com/eddie0329/storybook-darkmode-vue) maintainer
 - [svetlestrap](https://github.com/bestguy/sveltestrap) contributor
 - Highly interest at TDD
 
