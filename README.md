@@ -3,7 +3,7 @@
 :eyes: **I am**
 - Front-end Developer
 - [jest-to-be-typed](https://github.com/eddie0329/jest-to-be-typed), [storybook-darkmode-vue](https://github.com/eddie0329/storybook-darkmode-vue) maintainer
-- [svetlestrap](https://github.com/bestguy/sveltestrap) contributor
+- [svetlestrap](https://github.com/bestguy/sveltestrap), [jest-tobetype](https://github.com/abritinthebay/jest-tobetype) contributor
 - Highly interested in TDD
 
 :orange_book: **Languages**
