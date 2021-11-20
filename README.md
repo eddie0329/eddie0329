@@ -8,9 +8,10 @@
 
 :orange_book: **Languages**
 - Javascript
-- Java
+- Java, Kotlin
 - Python
 - C, C++
+- Swift
 
 :bulb: **Contact**
 - Email: [choi.jongsun0329@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=choi.jongsun0329@gmail.com)
