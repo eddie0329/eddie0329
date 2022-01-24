@@ -9,6 +9,7 @@
     - [svetlestrap](https://github.com/bestguy/sveltestrap)
     - [vitejs-kr](https://github.com/vitejs-kr/vitejs-kr.github.io)
     - [jest-tobetype](https://github.com/abritinthebay/jest-tobetype)
+    - [codepair](https://github.com/yorkie-team/codepair)
 - Highly interested in TDD
 
 :orange_book: **Languages**
