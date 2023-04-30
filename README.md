@@ -3,7 +3,7 @@
 :eyes: **I am**
 - Front-end Developer
 - Maintainer
-    - [NextServerLogger](https://github.com/eddie0329/NextServerLogger)
+    - [next-server-logger](https://github.com/eddie0329/NextServerLogger)
     - [vue3-use-modal](https://github.com/eddie0329/vue3-use-modal)
     - [jest-to-be-typed](https://github.com/eddie0329/jest-to-be-typed)
     - [storybook-darkmode-vue](https://github.com/eddie0329/storybook-darkmode-vue)
